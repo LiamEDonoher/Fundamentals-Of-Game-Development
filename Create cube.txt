@@ -1,0 +1,13 @@
+Create cube
+scale to size
+loop cut for bottom section
+Make a face for the inside of the loop cut
+Created cube for the hole, placed it in the floor, and used a Boolean modifier to cut out the hole
+Duplicated the floor and extruded it downwards for width
+Separate floor from model
+Get rid of the loop cut from the cube
+Used knife tool to get rid of ngons and make quads
+Attempted to unwrap but didn't work 
+Added seams to unwrapped model to make the texture cleaner
+Combined the unwrap for the floor and the ceiling
+Flip normals so player can see the inside of the sub rather than the outside
