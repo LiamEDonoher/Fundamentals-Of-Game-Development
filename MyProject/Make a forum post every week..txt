@@ -1,2 +1,25 @@
 Make a forum post every week.
 Make a forum post for every lecture explaining how we understand the code we learned to work.
+
+
+
+Structs + Sockets - research application
+
+Socket - attachment to a skeleton
+
+Make everything event based, it is far more optimised than building big complex code strings.
+
+Debug using breakpoints
+
+
+
+
+Camera
+https://www.youtube.com/watch?v=w1VwSpNl5H4
+
+
+Post on forum camera variation, try having the player be able to rotate the camera from the screen and having to rotate the ship
+
+Research stress mechanics in:
+- Sea of thieves
+- Overcooked
