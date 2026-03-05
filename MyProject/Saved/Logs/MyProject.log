@@ -3975,3 +3975,418 @@ Script call stack:
 [2026.03.05-19.43.03:496][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7519.570801
 [2026.03.05-19.43.04:497][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.05-19.43.04:497][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7520.235840, Update Interval: 309.935608
+[2026.03.05-19.45.58:842][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.03.05-19.45.58:854][206]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.45.58:855][206]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_81.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.45.58:856][206]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.45.58:857][206]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_136.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.45.58:858][206]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.45.58:860][206]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/MainGame.MainGame:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_78.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.45.58:868][206]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.45.58:869][206]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_82.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.45.58:870][206]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.45.58:871][206]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_137.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.45.58:872][206]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.45.58:873][206]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/MainGame.MainGame:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_79.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.47.56:045][415]LogSlate: Window 'Delete Variable' being destroyed
+[2026.03.05-19.48.09:298][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.03.05-19.48.09:310][335]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.48.09:311][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_83.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.48.09:311][335]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.48.09:313][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_138.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.48.09:314][335]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.48.09:316][335]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/MainGame.MainGame:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_80.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.48.09:326][335]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.48.09:327][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_84.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.48.09:327][335]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.48.09:329][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_139.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.48.09:330][335]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.48.09:332][335]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/MainGame.MainGame:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_81.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.48.14:003][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-19.48.14:079][655]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/BP_Submarine] ([2] browsable assets)...
+[2026.03.05-19.48.14:119][655]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_Submarine.BP_Submarine]
+[2026.03.05-19.48.14:119][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Submarine]
+[2026.03.05-19.48.14:119][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Submarine" FILE="../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Submarine.uasset" SILENT=true
+[2026.03.05-19.48.14:130][655]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Submarine
+[2026.03.05-19.48.14:131][655]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_Submarine886F8A8B4D0AA3BCF5C23EAD997767FD.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Submarine.uasset'
+[2026.03.05-19.48.14:145][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.028 ms (total: 6.27 sec)
+[2026.03.05-19.48.14:215][655]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-19.48.14:215][655]LogContentValidation: Enabled validators:
+[2026.03.05-19.48.14:215][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-19.48.14:215][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-19.48.14:215][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-19.48.14:215][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-19.48.14:215][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-19.48.14:215][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-19.48.14:215][655]AssetCheck: /Game/Blueprint/BP_Submarine Validating asset
+[2026.03.05-19.49.02:763][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.05-19.49.02:780][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Scenes/MainGame_Auto0
+[2026.03.05-19.49.02:780][ 31]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/MainGame_Auto01C2592DD4FD2DE1E22CF2FB21145E65D.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/Autosaves/Game/Scenes/MainGame_Auto0.umap'
+[2026.03.05-19.49.02:782][ 31]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/MainGame' took 0.046
+[2026.03.05-19.49.02:782][ 31]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2026.03.05-19.49.02:782][ 31]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BP_InteractionItemParent] ([2] browsable assets)...
+[2026.03.05-19.49.02:782][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_InteractionItemParent]
+[2026.03.05-19.49.02:793][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/BP_InteractionItemParent_Auto0
+[2026.03.05-19.49.02:793][ 31]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_InteractionItemParent_Auto0696F8FD14AD649BF2AD234AA6CF50B2A.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/Autosaves/Game/Blueprint/BP_InteractionItemParent_Auto0.uasset'
+[2026.03.05-19.49.02:794][ 31]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/BP_CameraButton] ([2] browsable assets)...
+[2026.03.05-19.49.02:942][ 31]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_CameraButton.BP_CameraButton]
+[2026.03.05-19.49.02:945][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_CameraButton]
+[2026.03.05-19.49.02:956][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/BP_CameraButton_Auto0
+[2026.03.05-19.49.02:956][ 31]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_CameraButton_Auto02FB101C942E8CC9E4385938741DBED0D.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/Autosaves/Game/Blueprint/BP_CameraButton_Auto0.uasset'
+[2026.03.05-19.49.02:958][ 31]LogFileHelpers: Auto-saving content packages took 0.176
+[2026.03.05-19.49.03:350][ 33]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7879.427246
+[2026.03.05-19.49.04:352][ 36]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-19.49.04:352][ 37]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7880.090332, Update Interval: 302.887665
+[2026.03.05-19.52.07:502][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.05-19.52.07:518][889]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.52.07:519][889]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_85.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.52.07:520][889]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.52.07:522][889]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/MainGame.MainGame:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_82.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.52.07:522][889]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.52.07:524][889]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_140.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.52.07:553][889]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.52.07:554][889]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_86.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.52.07:554][889]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.52.07:556][889]LogActorComponent: RegisterComponentWithWorld: (/Game/Scenes/MainGame.MainGame:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_83.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.52.07:556][889]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.52.07:558][889]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_BP_CameraButton_C_CHILDACTOR_141.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.03.05-19.52.08:062][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-19.52.08:139][919]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BPI_Interact] ([2] browsable assets)...
+[2026.03.05-19.52.08:139][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BPI_Interact]
+[2026.03.05-19.52.08:139][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BPI_Interact" FILE="../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BPI_Interact.uasset" SILENT=true
+[2026.03.05-19.52.08:144][919]LogSavePackage: Moving output files for package: /Game/Blueprint/BPI_Interact
+[2026.03.05-19.52.08:145][919]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BPI_Interact017784924467756F2DF3FFAEFCB320E4.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BPI_Interact.uasset'
+[2026.03.05-19.52.08:164][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.534 ms (total: 6.37 sec)
+[2026.03.05-19.52.08:232][919]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-19.52.08:232][919]LogContentValidation: Enabled validators:
+[2026.03.05-19.52.08:232][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-19.52.08:232][919]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-19.52.08:232][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-19.52.08:232][919]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-19.52.08:232][919]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-19.52.08:232][919]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-19.52.08:232][919]AssetCheck: /Game/Blueprint/BPI_Interact Validating asset
+[2026.03.05-19.52.13:356][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-19.52.13:431][266]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/BP_InteractionItemParent] ([2] browsable assets)...
+[2026.03.05-19.52.13:431][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_InteractionItemParent]
+[2026.03.05-19.52.13:442][266]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_InteractionItemParent
+[2026.03.05-19.52.13:442][266]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_InteractionItemParent36F33C6D4F36BB1583D353B540E7DF6E.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_InteractionItemParent.uasset'
+[2026.03.05-19.52.13:456][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.451 ms (total: 6.47 sec)
+[2026.03.05-19.52.13:528][266]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-19.52.13:529][266]LogContentValidation: Enabled validators:
+[2026.03.05-19.52.13:529][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-19.52.13:529][266]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-19.52.13:529][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-19.52.13:529][266]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-19.52.13:529][266]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-19.52.13:529][266]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-19.52.13:529][266]AssetCheck: /Game/Blueprint/BP_InteractionItemParent Validating asset
+[2026.03.05-19.52.28:950][246]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.05-19.52.28:999][246]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.05-19.52.29:025][247]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.05-19.52.40:242][933]LogContentBrowser: Attempting asset rename: NewFolder -> Interactions
+[2026.03.05-19.52.40:242][933]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.05-19.54.21:004][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-19.54.21:068][680]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/BP_Character] ([2] browsable assets)...
+[2026.03.05-19.54.21:111][680]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_Character.BP_Character]
+[2026.03.05-19.54.21:111][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Character]
+[2026.03.05-19.54.21:111][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Character" FILE="../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Character.uasset" SILENT=true
+[2026.03.05-19.54.21:137][680]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Character
+[2026.03.05-19.54.21:137][680]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_Character93CE6CEB442B5744D12976B7C94DD998.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Character.uasset'
+[2026.03.05-19.54.21:157][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.553 ms (total: 6.63 sec)
+[2026.03.05-19.54.21:237][680]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-19.54.21:237][680]LogContentValidation: Enabled validators:
+[2026.03.05-19.54.21:237][680]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-19.54.21:237][680]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-19.54.21:237][680]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-19.54.21:237][680]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-19.54.21:237][680]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-19.54.21:237][680]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-19.54.21:237][680]AssetCheck: /Game/Blueprint/BP_Character Validating asset
+[2026.03.05-19.54.42:451][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-19.54.42:498][857]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/BP_Character] ([2] browsable assets)...
+[2026.03.05-19.54.42:539][857]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_Character.BP_Character]
+[2026.03.05-19.54.42:539][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Character]
+[2026.03.05-19.54.42:539][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Character" FILE="../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Character.uasset" SILENT=true
+[2026.03.05-19.54.42:567][857]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Character
+[2026.03.05-19.54.42:568][857]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_Character1B78352A407A964DB6AEE3A80F6EDD87.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Character.uasset'
+[2026.03.05-19.54.42:590][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.194 ms (total: 6.77 sec)
+[2026.03.05-19.54.42:645][857]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-19.54.42:645][857]LogContentValidation: Enabled validators:
+[2026.03.05-19.54.42:645][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-19.54.42:645][857]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-19.54.42:645][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-19.54.42:645][857]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-19.54.42:645][857]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-19.54.42:645][857]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-19.54.42:645][857]AssetCheck: /Game/Blueprint/BP_Character Validating asset
+[2026.03.05-19.54.43:414][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.03.05-19.54.48:360][  3]LogSlate: Window 'Delete Variable' being destroyed
+[2026.03.05-19.54.49:559][ 64]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-19.54.49:559][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-19.54.49:638][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.03.05-19.54.49:964][ 81]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-19.54.49:965][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-19.54.50:048][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.05-19.54.50:524][113]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.05-19.54.50:524][113]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-19.54.50:524][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-19.54.50:597][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.05-19.54.53:724][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.05-19.55.00:282][270]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.05-19.55.00:566][270]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.05-19.55.00:566][270]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-19.55.00:566][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-19.55.00:685][270]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.05-19.55.00:685][270]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-19.55.00:685][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-19.55.00:775][270]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprint/BPI_Interact.BPI_Interact
+	Asset Type: Blueprint
+[2026.03.05-19.55.01:159][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.05-19.55.01:206][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.05-19.55.01:232][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.03.05-19.55.01:272][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.03.05-19.55.01:301][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8237.395508
+[2026.03.05-19.55.01:574][276]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-19.55.01:575][276]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8237.594727, Update Interval: 311.845459
+[2026.03.05-19.55.03:754][453]LogSlate: Window 'BP_Interactable' being destroyed
+[2026.03.05-19.55.03:766][453]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.05-19.55.03:766][453]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-19.55.03:767][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-19.55.03:896][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.05-19.55.06:567][718]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_Submarine.BP_Submarine
+[2026.03.05-19.55.06:567][718]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.03.05-19.55.07:044][718]LogActor: Loaded Actor (BP_CameraButton_GEN_VARIABLE_BP_CameraButton_C_CAT) with IsValid() == false
+[2026.03.05-19.55.14:731][ 93]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_Character.BP_Character
+[2026.03.05-19.55.14:731][ 93]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.03.05-19.55.19:332][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.05-19.55.20:549][288]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.05-19.55.20:656][288]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprint/BP_Interactable.BP_Interactable
+	Asset Type: Blueprint
+[2026.03.05-19.55.20:946][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.05-19.55.21:028][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.05-19.55.21:054][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.05-19.55.21:079][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.03.05-19.55.22:230][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.05-19.55.23:059][325]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.05-19.55.23:232][325]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-19.55.23:232][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-19.55.23:277][325]LogSlate: Window 'BP_Character' being destroyed
+[2026.03.05-19.55.23:304][325]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.05-19.55.23:304][325]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-19.55.23:304][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-19.55.23:344][325]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprint/BP_CameraButton.BP_CameraButton
+	Asset Type: Blueprint
+[2026.03.05-19.55.23:644][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.05-19.55.23:732][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.05-19.55.23:762][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.05-19.55.23:791][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.03.05-19.55.23:830][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.03.05-19.55.27:574][538]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_Character.BP_Character
+[2026.03.05-19.55.27:574][538]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.03.05-19.55.32:937][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.05-19.55.34:157][670]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.05-19.55.34:211][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.05-19.55.34:240][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.05-19.55.34:266][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.03.05-19.55.41:369][996]LogBlueprint: Error: [AssetLog] C:\Users\d016844p\Documents\GitHub\FinalEclypse\MyProject\Content\Blueprint\BP_Character.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface.
+[2026.03.05-19.55.41:370][996]LogBlueprint: Error: [AssetLog] C:\Users\d016844p\Documents\GitHub\FinalEclypse\MyProject\Content\Blueprint\BP_Character.uasset: [Compiler] Could not find a function named "Can Recieve Trace" in 'BP_Character'.
+Make sure 'BP_Character' has been compiled for  Invalid Message Node
+[2026.03.05-19.55.41:488][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.05-19.55.54:833][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.05-19.55.55:404][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-19.55.55:468][857]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/BP_Character] ([2] browsable assets)...
+[2026.03.05-19.55.55:508][857]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_Character.BP_Character]
+[2026.03.05-19.55.55:508][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Character]
+[2026.03.05-19.55.55:508][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Character" FILE="../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Character.uasset" SILENT=true
+[2026.03.05-19.55.55:528][857]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Character
+[2026.03.05-19.55.55:529][857]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_Character63B7950C44B761F9C071D88A5D309F35.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Character.uasset'
+[2026.03.05-19.55.55:545][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.122 ms (total: 6.91 sec)
+[2026.03.05-19.55.55:619][857]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-19.55.55:619][857]LogContentValidation: Enabled validators:
+[2026.03.05-19.55.55:619][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-19.55.55:619][857]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-19.55.55:619][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-19.55.55:619][857]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-19.55.55:619][857]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-19.55.55:619][857]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-19.55.55:619][857]AssetCheck: /Game/Blueprint/BP_Character Validating asset
+[2026.03.05-19.57.00:041][424]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2026.03.05-19.57.00:056][424]LogContentBrowser: Creating deferred item: NewInterface
+[2026.03.05-19.57.00:124][426]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2026.03.05-19.57.13:187][309]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_InteractionInterface
+[2026.03.05-19.57.13:195][309]LogContentBrowser: End creating deferred item NewInterface
+[2026.03.05-19.57.14:431][385]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Interactions/BPI_InteractionInterface.BPI_InteractionInterface
+[2026.03.05-19.57.14:432][385]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.03.05-19.57.29:555][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.05-19.57.30:052][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-19.57.30:102][522]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Interactions/BPI_InteractionInterface] ([2] browsable assets)...
+[2026.03.05-19.57.30:102][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Interactions/BPI_InteractionInterface]
+[2026.03.05-19.57.30:106][522]LogSavePackage: Moving output files for package: /Game/Blueprint/Interactions/BPI_InteractionInterface
+[2026.03.05-19.57.30:106][522]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BPI_InteractionInterface0F302FD74091B07E145CA781F62398D9.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/Interactions/BPI_InteractionInterface.uasset'
+[2026.03.05-19.57.30:126][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.594 ms (total: 6.98 sec)
+[2026.03.05-19.57.30:202][522]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-19.57.30:202][522]LogContentValidation: Enabled validators:
+[2026.03.05-19.57.30:204][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-19.57.30:204][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-19.57.30:204][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-19.57.30:204][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-19.57.30:204][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-19.57.30:204][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-19.57.30:204][522]AssetCheck: /Game/Blueprint/Interactions/BPI_InteractionInterface Validating asset
+[2026.03.05-19.57.30:231][522]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-19.58.01:503][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.05-19.59.17:496][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.05-19.59.18:127][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-19.59.18:203][428]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/BP_Character] ([2] browsable assets)...
+[2026.03.05-19.59.18:257][428]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_Character.BP_Character]
+[2026.03.05-19.59.18:257][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Character]
+[2026.03.05-19.59.18:257][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Character" FILE="../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Character.uasset" SILENT=true
+[2026.03.05-19.59.18:277][428]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Character
+[2026.03.05-19.59.18:278][428]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_Character5EECAACE43146C037247B9A1B43DD026.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Character.uasset'
+[2026.03.05-19.59.18:292][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.231 ms (total: 7.14 sec)
+[2026.03.05-19.59.18:367][428]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-19.59.18:367][428]LogContentValidation: Enabled validators:
+[2026.03.05-19.59.18:367][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-19.59.18:367][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-19.59.18:367][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-19.59.18:367][428]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-19.59.18:367][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-19.59.18:367][428]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-19.59.18:367][428]AssetCheck: /Game/Blueprint/BP_Character Validating asset
+[2026.03.05-20.00.12:789][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.05-20.00.13:489][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-20.00.13:557][323]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/BP_Character] ([2] browsable assets)...
+[2026.03.05-20.00.13:601][323]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_Character.BP_Character]
+[2026.03.05-20.00.13:601][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Character]
+[2026.03.05-20.00.13:601][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Character" FILE="../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Character.uasset" SILENT=true
+[2026.03.05-20.00.13:622][323]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Character
+[2026.03.05-20.00.13:622][323]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_Character51B589534C6F24CD7ABD0CB9A35BF7EC.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Character.uasset'
+[2026.03.05-20.00.13:637][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.233 ms (total: 7.29 sec)
+[2026.03.05-20.00.13:707][323]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-20.00.13:707][323]LogContentValidation: Enabled validators:
+[2026.03.05-20.00.13:707][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-20.00.13:707][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-20.00.13:707][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-20.00.13:707][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-20.00.13:707][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-20.00.13:707][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-20.00.13:707][323]AssetCheck: /Game/Blueprint/BP_Character Validating asset
+[2026.03.05-20.00.33:044][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-20.00.33:104][633]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/BP_Character] ([2] browsable assets)...
+[2026.03.05-20.00.33:104][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Character]
+[2026.03.05-20.00.33:104][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Character" FILE="../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Character.uasset" SILENT=true
+[2026.03.05-20.00.33:124][633]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Character
+[2026.03.05-20.00.33:125][633]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_CharacterB2AC1CAD491F80A6D27A87BF27633727.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/BP_Character.uasset'
+[2026.03.05-20.00.33:140][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.359 ms (total: 7.39 sec)
+[2026.03.05-20.00.33:201][633]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-20.00.33:201][633]LogContentValidation: Enabled validators:
+[2026.03.05-20.00.33:201][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-20.00.33:201][633]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-20.00.33:201][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-20.00.33:201][633]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-20.00.33:201][633]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-20.00.33:201][633]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-20.00.33:201][633]AssetCheck: /Game/Blueprint/BP_Character Validating asset
+[2026.03.05-20.00.57:545][377]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.05-20.00.57:555][377]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.05-20.00.57:570][377]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.05-20.00.57:590][378]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.05-20.01.03:058][730]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CameraButton
+[2026.03.05-20.01.03:067][730]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.05-20.01.04:544][813]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Interactions/BP_CameraButton.BP_CameraButton
+[2026.03.05-20.01.04:544][813]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.03.05-20.01.09:270][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8605.425781
+[2026.03.05-20.01.09:440][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-20.01.09:440][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8605.583008, Update Interval: 358.000427
+[2026.03.05-20.01.42:474][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-20.01.42:545][883]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Interactions/BP_CameraButton] ([2] browsable assets)...
+[2026.03.05-20.01.42:555][883]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Interactions/BP_CameraButton.BP_CameraButton]
+[2026.03.05-20.01.42:555][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Interactions/BP_CameraButton]
+[2026.03.05-20.01.42:563][883]LogSavePackage: Moving output files for package: /Game/Blueprint/Interactions/BP_CameraButton
+[2026.03.05-20.01.42:563][883]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_CameraButton6FDCBC264846A9DED6991B9E1ED52518.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/Interactions/BP_CameraButton.uasset'
+[2026.03.05-20.01.42:578][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.496 ms (total: 7.49 sec)
+[2026.03.05-20.01.42:656][883]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-20.01.42:656][883]LogContentValidation: Enabled validators:
+[2026.03.05-20.01.42:656][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-20.01.42:656][883]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-20.01.42:656][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-20.01.42:656][883]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-20.01.42:656][883]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-20.01.42:656][883]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-20.01.42:656][883]AssetCheck: /Game/Blueprint/Interactions/BP_CameraButton Validating asset
+[2026.03.05-20.01.42:686][883]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-20.01.49:442][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-20.01.49:508][260]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Interactions/BP_CameraButton] ([2] browsable assets)...
+[2026.03.05-20.01.49:508][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Interactions/BP_CameraButton]
+[2026.03.05-20.01.49:516][260]LogSavePackage: Moving output files for package: /Game/Blueprint/Interactions/BP_CameraButton
+[2026.03.05-20.01.49:517][260]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_CameraButton13885D5E420608CD263489A23389B2A4.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/Interactions/BP_CameraButton.uasset'
+[2026.03.05-20.01.49:532][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.817 ms (total: 7.58 sec)
+[2026.03.05-20.01.49:604][260]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-20.01.49:604][260]LogContentValidation: Enabled validators:
+[2026.03.05-20.01.49:604][260]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-20.01.49:604][260]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-20.01.49:604][260]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-20.01.49:604][260]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-20.01.49:604][260]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-20.01.49:604][260]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-20.01.49:604][260]AssetCheck: /Game/Blueprint/Interactions/BP_CameraButton Validating asset
+[2026.03.05-20.01.51:993][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-20.01.52:057][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Interactions/BP_CameraButton] ([2] browsable assets)...
+[2026.03.05-20.01.52:057][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Interactions/BP_CameraButton]
+[2026.03.05-20.01.52:064][391]LogSavePackage: Moving output files for package: /Game/Blueprint/Interactions/BP_CameraButton
+[2026.03.05-20.01.52:065][391]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_CameraButtonAFBC3E574EB7FCD250C176A494776472.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/Interactions/BP_CameraButton.uasset'
+[2026.03.05-20.01.52:075][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.125 ms (total: 7.67 sec)
+[2026.03.05-20.01.52:133][391]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-20.01.52:133][391]LogContentValidation: Enabled validators:
+[2026.03.05-20.01.52:133][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-20.01.52:133][391]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-20.01.52:133][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-20.01.52:133][391]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-20.01.52:133][391]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-20.01.52:134][391]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-20.01.52:134][391]AssetCheck: /Game/Blueprint/Interactions/BP_CameraButton Validating asset
+[2026.03.05-20.01.55:946][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.05-20.01.56:437][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-20.01.56:507][614]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Interactions/BP_CameraButton] ([2] browsable assets)...
+[2026.03.05-20.01.56:546][614]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Interactions/BP_CameraButton.BP_CameraButton]
+[2026.03.05-20.01.56:546][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Interactions/BP_CameraButton]
+[2026.03.05-20.01.56:554][614]LogSavePackage: Moving output files for package: /Game/Blueprint/Interactions/BP_CameraButton
+[2026.03.05-20.01.56:554][614]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_CameraButtonA67DEA764A30EC12E6AD9C8FA7BA342A.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Content/Blueprint/Interactions/BP_CameraButton.uasset'
+[2026.03.05-20.01.56:565][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.478 ms (total: 7.79 sec)
+[2026.03.05-20.01.56:641][614]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-20.01.56:641][614]LogContentValidation: Enabled validators:
+[2026.03.05-20.01.56:641][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-20.01.56:641][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-20.01.56:641][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-20.01.56:641][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-20.01.56:641][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-20.01.56:641][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-20.01.56:641][614]AssetCheck: /Game/Blueprint/Interactions/BP_CameraButton Validating asset
+[2026.03.05-20.03.33:359][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.03.05-20.04.00:171][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.03.05-20.04.00:196][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Scenes/MainGame_Auto1
+[2026.03.05-20.04.00:196][722]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/MainGame_Auto1753A4ABB46CF6AC446CFA7ADA618AF12.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/Autosaves/Game/Scenes/MainGame_Auto1.umap'
+[2026.03.05-20.04.00:199][722]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/MainGame' took 0.064
+[2026.03.05-20.04.00:199][722]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2026.03.05-20.04.00:199][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/BP_Submarine] ([2] browsable assets)...
+[2026.03.05-20.04.00:199][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Submarine]
+[2026.03.05-20.04.00:222][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/BP_Submarine_Auto1
+[2026.03.05-20.04.00:223][722]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_Submarine_Auto13519475A4BEEA1267E7D41B6F1D45B0D.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/Autosaves/Game/Blueprint/BP_Submarine_Auto1.uasset'
+[2026.03.05-20.04.00:227][722]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Interactions/BP_CameraButton] ([2] browsable assets)...
+[2026.03.05-20.04.00:423][722]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Interactions/BP_CameraButton.BP_CameraButton]
+[2026.03.05-20.04.00:425][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Interactions/BP_CameraButton]
+[2026.03.05-20.04.00:432][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/Interactions/BP_CameraButton_Auto1
+[2026.03.05-20.04.00:432][722]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/BP_CameraButton_Auto1C29FD0434D4F3A918684BF98272B9257.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/FinalEclypse/MyProject/Saved/Autosaves/Game/Blueprint/Interactions/BP_CameraButton_Auto1.uasset'
+[2026.03.05-20.04.00:434][722]LogFileHelpers: Auto-saving content packages took 0.236
+[2026.03.05-20.08.04:874][467]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9020.983398
+[2026.03.05-20.08.05:874][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-20.08.05:874][471]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9021.650391, Update Interval: 349.092072
+[2026.03.05-20.09.50:655][774]LogD3D12RHI: Error: Swapchain presentation try 1/5 failed with HR(0x80070057): Viewport=0x000001D3C1C953C0, Num=3, Size=(1936,1048), PF=18, DXGIFormat=0x18, Fullscreen=0, AllowTearing=1
+[2026.03.05-20.09.50:688][774]LogD3D12RHI: Error: Swapchain presentation try 1/5 failed with HR(0x80070057): Viewport=0x000001D1D5CBF780, Num=3, Size=(1936,1048), PF=18, DXGIFormat=0x18, Fullscreen=0, AllowTearing=1
+[2026.03.05-20.09.50:689][774]LogD3D12RHI: Error: Swapchain presentation try 2/5 failed with HR(0x80070057): Viewport=0x000001D3C1C953C0, Num=3, Size=(1936,1048), PF=18, DXGIFormat=0x18, Fullscreen=0, AllowTearing=1
+[2026.03.05-20.09.50:712][775]LogD3D12RHI: Error: Swapchain presentation try 2/5 failed with HR(0x80070057): Viewport=0x000001D1D5CBF780, Num=3, Size=(1936,1048), PF=18, DXGIFormat=0x18, Fullscreen=0, AllowTearing=1
+[2026.03.05-20.09.50:713][775]LogD3D12RHI: Error: Swapchain presentation try 3/5 failed with HR(0x80070057): Viewport=0x000001D3C1C953C0, Num=3, Size=(1936,1048), PF=18, DXGIFormat=0x18, Fullscreen=0, AllowTearing=1
