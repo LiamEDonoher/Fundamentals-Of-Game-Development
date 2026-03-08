@@ -3,5 +3,10 @@ Calling the event from another blueprint (not used in the end)
 https://forums.unrealengine.com/t/how-can-i-call-an-event-from-another-blueprint/777468
 
 
-Black and white tutorial
-https://www.youtube.com/watch?v=MWKVdH5qVb4
+
+
+### Basic player controller
+### Crosshair
+### Button logic
+### Ship movement
+### Sound effect design
