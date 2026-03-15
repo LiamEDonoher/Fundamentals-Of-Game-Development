@@ -1,0 +1,1 @@
+We want to get the players mouse location at a reference when clicking on the console, we store this as a variable to compare against then determining the extremity of their movement
